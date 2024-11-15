@@ -1,1 +1,2 @@
 adding the events api for creating an event
+retrieving an event by its id to embed its informations in the invitation
